@@ -1,4 +1,4 @@
-/*Brend Mejia
+/*Brenda Mejia
  *Program 7.3 Count Occurrence of Numbers
  *Java Programming COP 2800
  *October 29, 2016
