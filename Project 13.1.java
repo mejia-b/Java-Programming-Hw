@@ -132,3 +132,17 @@ private java.util.Date dateCreated;
 		return "created on  [dateCreated=" + dateCreated + " ,color=" + color + ", filled=" + filled + "]";
 	}//end of toString
 }//end of GeometricObject class
+
+////////////////// OUTPUT ///////////////
+Enter the three sides of the triangle
+7 5 6
+Enter the color you would like for the triangle
+Blue
+Would you like the triangle filled?
+Enter "Yes" or "No"
+No
+Area: 14.70
+Perimeter: 17.0
+Color: Blue
+Filled: false
+
